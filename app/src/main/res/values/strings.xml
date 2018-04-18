@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Leprosy</string>
+    <string name="know">About Leprosy</string>
+    <string name="know_symp">Know Symptoms</string>
+    <string name="check">Check Symptoms</string>
+    <string name="quad">Quad</string>
+    <string name="squad">Squad</string>
+</resources>

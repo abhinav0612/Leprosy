@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary"> #5499c7 </color>
+    <color name="colorPrimaryDark">#2471a3</color>
+    <color name="darksplash"> #154360 </color>
+    <color name="colorAccent"> #bb8fce </color>
+    <color name="bg1startcolor">#000428</color>
+    <color name="bg1endcolor">#004e92</color>
+    <color name="bg2startcolor">#8e0e00</color>
+    <color name="bg2endcolor">#1f1c18</color>
+    <color name="bg3startcolor">#000000</color>
+    <color name="bg3endcolor">#434343</color>
+</resources>
